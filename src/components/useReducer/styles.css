@@ -1,0 +1,11 @@
+body { padding: 50px;}
+
+.list-group-item {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+p { margin: 0; }
+
+.complete { text-decoration: line-through; }
